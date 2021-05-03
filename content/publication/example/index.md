@@ -32,7 +32,7 @@ publication: In *26th ACM International Conference on Architectural Support for 
 publication_short: In *ASPLOS*
 
 abstract: Low-resolution Low-resolution uniform quantization (e.g., 4-bit bitwidth) for both Deep Neural Network (DNN) weights and data has emerged as an important technique for efficient inference. Departing from conventional quantization with a fixed resolution, we describe a novel training approach to support inference at multiple resolutions by 
-
+reusing a single set of quantization terms. The proposed approach streamlines the training and supports dynamic selection of resolution levels during inference. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
