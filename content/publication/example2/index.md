@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-04-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/saizhang0218/Multi-resolution-Inference'
+url_code: 'https://github.com/saizhang0218/TMC'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -59,7 +59,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: "none"
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).
