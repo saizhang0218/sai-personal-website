@@ -1,5 +1,5 @@
 ---
-title: "Training for Multi-resolution Inference Using Reusable Quantization Terms"
+title: "Succinct and Robust Multi-Agent Communication With Temporal Message Control"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -59,7 +59,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: "center"
+  focal_point: "none"
   preview_only: false
 
 # Associated Projects (optional).
