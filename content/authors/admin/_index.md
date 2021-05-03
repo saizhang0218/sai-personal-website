@@ -30,10 +30,10 @@ education:
     year: Sep. 2021 (Expected)
   - course: MASc in Electrical Engineering
     institution: University of Toronto
-    year: 2009
+    year: 2016
   - course: BASc in Electrical Engineering
     institution: University of Toronto
-    year: 2008
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
