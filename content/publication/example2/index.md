@@ -31,15 +31,7 @@ publication: In *Neural Information Processing System*
 publication_short: In *NeurIPS*
 
 abstract: Recent studies have shown that introducing communication between agents can significantly improve overall performance in cooperative Multi-agent reinforcement
-learning (MARL). However, existing communication schemes often require agents
-to exchange an excessive number of messages at run-time under a reliable communication channel, which hinders its practicality in many real-world situations. In
-this paper, we present Temporal Message Control (TMC), a simple yet effective
-approach for achieving succinct and robust communication in MARL. TMC applies
-a temporal smoothing technique to drastically reduce the amount of information
-exchanged between agents. Experiments show that TMC can significantly reduce
-inter-agent communication overhead without impacting accuracy. Furthermore,
-TMC demonstrates much better robustness against transmission loss than existing
-approaches in lossy networking environments.
+learning (MARL). However, existing communication schemes often require agents to exchange an excessive number of messages at run-time under a reliable communication channel, which hinders its practicality in many real-world situations. In this paper, we present Temporal Message Control (TMC), a simple yet effective approach for achieving succinct and robust communication in MARL. TMC applies a temporal smoothing technique to drastically reduce the amount of information exchanged between agents. Experiments show that TMC can significantly reduce inter-agent communication overhead without impacting accuracy. Furthermore, TMC demonstrates much better robustness against transmission loss than existing approaches in lossy networking environments.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
