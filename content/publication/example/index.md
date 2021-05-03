@@ -31,21 +31,7 @@ publication_types: ["1"]
 publication: In *26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems*
 publication_short: In *ASPLOS*
 
-abstract: Low-resolution Low-resolution uniform quantization (e.g., 4-bit bitwidth) for both Deep Neural Network (DNN) weights and data has emerged as an important technique for efficient inference. Departing from conventional quantization with a fixed resolution, we describe a novel training approach to support inference at multiple resolutions by reusing a single set of quantization terms. The proposed approach streamlines the training
-
-and supports dynamic selection of resolution levels during infer-
-ence. We evaluate the method on a diverse range of applications
-
-including multiple CNNs on ImageNet, an LSTM on Wikitext-2,
-and YOLO-v5 on COCO. We show that models resulting from our
-multi-resolution training can support up to 10 resolutions with
-only a moderate performance reduction (e.g., ≤ 1%) compared
-to training them individually. Lastly, using an FPGA, we compare
-our multi-resolution multiplier-accumulator (mMAC) against other
-conventional MAC designs and evaluate the inference performance.
-We show that the mMAC design broadens the choices in trading
-off cost, efficiency, and latency across a range of computational
-budgets.
+abstract: Low-resolution Low-resolution uniform quantization (e.g., 4-bit bitwidth) for both Deep Neural Network (DNN) weights and data has emerged as an important technique for efficient inference. Departing from conventional quantization with a fixed resolution, we describe a novel training approach to support inference at multiple resolutions by reusing a single set of quantization terms. The proposed approach streamlines the training and supports dynamic selection of resolution levels during inference. We evaluate the method on a diverse range of applications.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
