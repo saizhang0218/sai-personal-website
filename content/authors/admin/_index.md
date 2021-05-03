@@ -74,4 +74,4 @@ highlight_name: false
 I am a doctoral student of Computer Science at Harvard University. Before coming to Harvard, I received my bachelor's degree and master's degree in Electrical Engineering and Statistics from University of Toronto. My research interest lies in software/hardware codesign for efficient deep neural network (DNN) implementation on hardware platforms. I am also interested in Multi-Agent Reinforcement Learning (MARL) and its application.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/short_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "short_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
