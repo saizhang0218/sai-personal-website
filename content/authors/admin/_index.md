@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sai Qian Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Harvard University
+  url: https://www.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest lies in software/hardware codesign for efficient deep neural network (DNN) implementation on hardware platforms. I am also interested in multi-agent reinforcement learning (MARL) and its application.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Efficient Deep Learning Computing
+- Multi-agent Reinforcement Learning
+- Deep Learning System Design
 
 # Education to show in About widget
 education:
