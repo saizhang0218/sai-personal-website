@@ -18,7 +18,7 @@ date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +30,16 @@ publication_types: ["1"]
 publication: In *Neural Information Processing System*
 publication_short: In *NeurIPS*
 
-abstract: Low-resolution Low-resolution uniform quantization (e.g., 4-bit bitwidth) for both Deep Neural Network (DNN) weights and data has emerged as an important technique for efficient inference. Departing from conventional quantization with a fixed resolution, we describe a novel training approach to support inference at multiple resolutions by reusing a single set of quantization terms. The proposed approach streamlines the training and supports dynamic selection of resolution levels during inference. We evaluate the method on a diverse range of applications including multiple CNNs on ImageNet, an LSTM on Wikitext-2, and YOLO-v5 on COCO. We show that models resulting from our multi-resolution training can support up to 10 resolutions with only a moderate performance reduction (e.g., < 1%) compared to training them individually. Lastly, using an FPGA, we compare our multi-resolution multiplier-accumulator (mMAC) against other conventional MAC designs and evaluate the inference performance.
+abstract: Recent studies have shown that introducing communication between agents can significantly improve overall performance in cooperative Multi-agent reinforcement
+learning (MARL). However, existing communication schemes often require agents
+to exchange an excessive number of messages at run-time under a reliable communication channel, which hinders its practicality in many real-world situations. In
+this paper, we present Temporal Message Control (TMC), a simple yet effective
+approach for achieving succinct and robust communication in MARL. TMC applies
+a temporal smoothing technique to drastically reduce the amount of information
+exchanged between agents. Experiments show that TMC can significantly reduce
+inter-agent communication overhead without impacting accuracy. Furthermore,
+TMC demonstrates much better robustness against transmission loss than existing
+approaches in lossy networking environments.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
