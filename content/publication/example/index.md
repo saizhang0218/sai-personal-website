@@ -47,7 +47,7 @@ ence. We evaluate the method on a diverse range of applications
 including multiple CNNs on ImageNet, an LSTM on Wikitext-2,
 and YOLO-v5 on COCO. We show that models resulting from our
 multi-resolution training can support up to 10 resolutions with
-only a moderate performance reduction (e.g., ≤ 1%) compared
+only a moderate performance reduction (e.g., < 1%) compared
 to training them individually. Lastly, using an FPGA, we compare
 our multi-resolution multiplier-accumulator (mMAC) against other
 conventional MAC designs and evaluate the inference performance.
