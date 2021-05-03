@@ -36,7 +36,7 @@ reusing a single set of quantization terms (the same set of nonzero bits in valu
 We show that the mMAC design broadens the choices in trading off cost, efficiency, and latency across a range of computational budgets.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
