@@ -1,20 +1,21 @@
 ---
-title: "Succinct and Robust Multi-Agent Communication With Temporal Message Control"
+title: "Term Quantization:Furthering Quantization at Run Time"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jieyu Lin
-- Qi Zhang
+- H.T. Kung
+- Bradley McDanel
 
 # Author notes (optional)
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2020-12-01T00:00:00Z"
+date: "2020-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,10 +28,10 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neural Information Processing System*
-publication_short: In *NeurIPS*
+publication: In *ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*
+publication_short: In *ACM/IEEE SC*
 
-abstract: Recent studies have shown that introducing communication between agents can significantly improve overall performance in cooperative Multi-agent reinforcement learning (MARL). However, existing communication schemes often require agents to exchange an excessive number of messages at run-time under a reliable communication channel, which hinders its practicality in many real-world situations. In this paper, we present Temporal Message Control (TMC), a simple yet effective approach for achieving succinct and robust communication in MARL. TMC applies a temporal smoothing technique to drastically reduce the amount of information exchanged between agents. Experiments show that TMC can significantly reduce inter-agent communication overhead without impacting accuracy. Furthermore, TMC demonstrates much better robustness against transmission loss than existing approaches in lossy networking environments.
+abstract: We present a novel technique, called Term Quantization (TQ), for furthering quantization at run time for improved computational efficiency of deep neural networks (DNNs) already quantized with conventional quantization methods. TQ operates on power-of-two terms in expressions of values. In computing a dot-product computation, TQ dynamically selects a fixed number of largest terms to use from values of the two vectors. By exploiting weight and data distributions typically present in DNNs, TQ has a minimal impact on DNN model performance (e.g., accuracy or perplexity). We use TQ to facilitate tightly synchronized processor arrays, such as systolic arrays, for efficient parallel processing. We evaluate TQ on an MLP for MNIST, multiple CNNs for ImageNet and an LSTM for Wikitext-2. We demonstrate significant reductions in inference computation costs (between 3-10×) compared to conventional uniform quantization for the same level of model performance.
 
 
 # Summary. An optional shortened abstract.
@@ -47,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/saizhang0218/TMC'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
