@@ -47,11 +47,11 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/saizhang0218/Multi-resolution-Inference'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://github.com/saizhang0218/Multi-resolution-Inference'
+url_slides: ''
 url_source: ''
 url_video: ''
 
