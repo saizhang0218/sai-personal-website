@@ -31,7 +31,8 @@ publication: In *Neural Information Processing System*
 publication_short: In *NeurIPS*
 
 abstract: Recent studies have shown that introducing communication between agents can significantly improve overall performance in cooperative Multi-agent reinforcement
-learning (MARL). However, existing communication schemes often require agents to exchange an excessive number of messages at run-time under a reliable communication channel, which hinders its practicality in many real-world situations. 
+learning (MARL).
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
